@@ -1,5 +1,5 @@
 
-### OI, me chamo Edimar Duarte👋
+### Oi, me chamo Edimar Duarte👋
 
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edimar-duarte-8a9a20262/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edinho_neto_k2/)
@@ -15,4 +15,4 @@
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <div\>
   
-### Gosto de tecnologia e do avanço que ela trás, gosto de ver suas aplicações em video games e filmes, mas agora com as IA's essa paixão cresceu e chegou o momento de criar a minha própria assistente pessoal. Com os avanços da IA, logo ela estará na medicina e na agricultura ajudando na evolução do ser humano para dar o próximo passo. Eu quero fazer parte disso. Então deixarei aqui alguns projetos que possam ajudar nesse crescimento.
+### Gosto de tecnologia e gosto de criar e montar coisas. Hoje com os avanços da Inteligência Artificial vejo que novas oportunidades surgirem e quero estar entre os que usam elas.
