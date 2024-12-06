@@ -15,4 +15,6 @@
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <div\>
   
-### Gosto de tecnologia. Gosto de criar e montar coisas. Hoje, com os avanços da Inteligência Artificial vejo que novas oportunidades surgiram e quero estar entre os que dominam nessa área.
+### Gosto de imaginar o mundo no futuro, e com as tecnológias de hoje podemos ter uma visão cada vez mais próxima de como ele será.
+Aqui de vez em quando deixarei alguma coisa que me pareça interessante ou que agregue valor a você que me visita, fique a vontade para explorar por ai,
+na sua maioria serão projetos simples e com pouca utilidade prática, más também serão prova do que estou aprendendo e de como vejo a tecnologia hoje.
