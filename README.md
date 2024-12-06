@@ -15,6 +15,6 @@
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <div\>
   
-### Gosto de imaginar o mundo no futuro, e com as tecnológias de hoje podemos ter uma visão cada vez mais próxima de como ele será.
-Aqui de vez em quando deixarei alguma coisa que me pareça interessante ou que agregue valor a você que me visita, fique a vontade para explorar por ai,
-na sua maioria serão projetos simples e com pouca utilidade prática, más também serão prova do que estou aprendendo e de como vejo a tecnologia hoje.
+## Adoro imaginar como será o mundo no futuro, e com as tecnologias de hoje, podemos ter uma visão cada vez mais clara de como ele pode se transformar.
+Aqui, de vez em quando, deixarei algumas coisas que me pareçam interessantes ou que agreguem valor a você que me visita. Fique à vontade para explorar. 
+Na maioria das vezes, serão projetos simples e com pouca utilidade prática, mas também serão provas do que estou aprendendo e de como vejo a tecnologia hoje.
